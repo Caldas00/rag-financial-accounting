@@ -1,0 +1,1874 @@
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 1]
+# Financial Accounting — Fall 2025/2026
+## Introduction to Accounting
+### The Financial Statements
+Autor: João Filipe
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 2]
+# What is accounting?
+- Medir e comunicar eventos económicos
+- Fornecer informação útil
+- Três atividades:
+  - **Identificação**
+  - **Registo**
+  - **Comunicação**
+- Utiliza um sistema de informação contabilística
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 3]
+# Tipos de contabilidade
+- **Contabilidade financeira** (external accounting / general-purpose)
+- **Contabilidade de gestão** (management/internal/cost accounting)
+- **Contabilidade fiscal** (tax accounting)
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 4]
+# Contabilidade financeira
+- Descreve **recursos financeiros**, **obrigações** e **atividades** de uma entidade económica (organização ou indivíduo)
+  - **Posição financeira** (recursos e obrigações)
+  - **Resultados das operações** (atividades)
+- Utilizadores:
+  - **Externos**: acionistas, fornecedores, bancos, entidades governamentais
+  - **Internos**: gestores de topo e chefias
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 5]
+# Contabilidade de gestão
+- Desenvolve e interpreta informação contabilística para apoiar a gestão
+- Disponível apenas para decisores **internos** (gestão de topo e chefias)
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 6]
+# Contabilidade fiscal
+- Prepara declarações de impostos sobre o rendimento
+- Baseia-se na contabilidade financeira
+- Segue requisitos e regulamentos fiscais
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 7]
+# Relato financeiro
+- Objetivo: reportar informação que revele a situação financeira da organização aos stakeholders
+- **Demonstrações financeiras**:
+  - Demonstração da posição financeira (**Balanço**)
+  - Demonstração dos resultados (**Income statement / P&L**)
+  - **Demonstração de fluxos de caixa**
+  - **Demonstração de alterações no capital próprio**
+  - **Anexo / Notas às demonstrações financeiras**
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 8]
+# Sistema contabilístico
+- Para relatar financeiramente, as empresas precisam de um **sistema de informação** que registe, classifique e sintetize dados
+- Inclui **controlo interno**:
+  - Procedimentos para assegurar a fiabilidade do relato financeiro
+  - Medidas para evitar erros, desperdício e fraude
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 9]
+# Normas contabilísticas
+- Para assegurar qualidade e integridade do relato, a contabilidade é **regulada**
+- Competência, juízo e **ética** são cruciais
+- Demonstrações financeiras preparadas em conformidade com **normas contabilísticas**
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 10]
+# Auditoria
+- Auditorias às DF dão **garantia** aos utilizadores sobre a fiabilidade
+- Auditoria: investigação das DF para avaliar a **fidedignidade** (fiabilidade e completude)
+- Auditores: independentes e **especialistas** em relato financeiro
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 11]
+# Harmonização contabilística
+- Globalização fomentou necessidade de **normas harmonizadas**
+- Até aos anos 2000, regras eram muito diferentes entre países; na UE não havia conjunto comum a todos os Estados-Membros
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 12]
+# Harmonização contabilística (atual)
+- **>130 países** seguem normas do **IASB**
+  - IAS (International Accounting Standards) e **IFRS** (International Financial Reporting Standards)
+- **Regulamento (CE) 1606/2002**: desde **1-Jan-2005**, empresas-mãe sediadas na UE e cotadas devem adotar IAS/IFRS nas **contas consolidadas**
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 13]
+# Caso português
+- Em Portugal, a **CNC** preparou a adoção dos referenciais internacionais
+- Resultado: **SNC** (Sistema de Normalização Contabilística)
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 14]
+# Caso português — micro e pequenas entidades
+- O **SNC** tem versões simplificadas para **pequenas** e **micro** entidades
+- Critério: não exceder **2** dos seguintes limites:
+
+| Limite                | Micro entidade | Pequena entidade |
+|-----------------------|----------------|------------------|
+| Ativo total           | 350 000 €      | 4 000 000 €      |
+| Rendimentos totais    | 700 000 €      | 8 000 000 €      |
+| Nº de empregados      | 10             | 50               |
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 15]
+# Enquadramento conceptual — Qualidades da informação
+- **Relevância** (materialidade)
+- **Representação fidedigna**
+- **Compreensibilidade**
+- **Comparabilidade** e **consistência**
+- **Verificabilidade**
+- **Tempestividade**
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 16]
+# Enquadramento conceptual — Pressupostos
+- **Unidade monetária**: apenas itens expressos em dinheiro
+- **Entidade económica**: separar atividades da entidade das do proprietário
+- **Periodicidade**: vida da empresa dividida em períodos
+- **Continuidade** (*going concern*)
+- **Acréscimo** (*accrual*): registar quando os factos ocorrem
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 17]
+# Enquadramento conceptual — Elementos das DF
+- **Balanço**
+  - Ativos
+  - Passivos
+  - Capital próprio
+- **Resultados**
+  - Rendimentos
+  - Gastos
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 18]
+# Elementos — Ativos, Passivos, Capital Próprio
+- **Ativos**: recursos controlados resultantes de eventos passados, com benefícios económicos futuros esperados
+- **Passivos**: obrigações presentes decorrentes de eventos passados, cuja liquidação resultará em saída de recursos
+- **Capital próprio**: interesse residual nos ativos após dedução dos passivos (financiamento de proprietários e operações)
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 19]
+# Elementos — Rendimentos e Gastos
+- **Rendimentos**: entradas de benefícios económicos (↑ ativos ou ↓ passivos) que aumentam o capital próprio, exceto contribuições dos proprietários
+- **Gastos**: saídas de benefícios económicos (↓ ativos ou ↑ passivos) que diminuem o capital próprio, exceto distribuições aos proprietários
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 20]
+# Demonstrações financeiras básicas
+- **Balanço**
+- **Demonstração de resultados**
+- **Demonstração de fluxos de caixa**
+- Complemento: **Notas às DF**
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 21]
+# Balanço — visão geral
+- “Fotografia” num momento específico:
+  - **Ativos** (recursos)
+  - **Passivos** (obrigações/dívidas)
+  - **Capital próprio** (interesses dos proprietários)
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 22]
+# Balanço — estrutura e apresentação
+## Estrutura típica
+- **Ativos**
+  - **Não correntes** (…)
+  - **Correntes** (…)
+- **Capital Próprio e Passivos**
+  - **Capital próprio** (…)
+  - **Passivos**
+    - **Não correntes** (…)
+    - **Correntes** (…)
+
+## Ordem de apresentação
+- **Ativos**: por **liquidez ascendente**
+- **Passivos**: por **exigibilidade descendente**
+- Itens agrupados em **correntes** e **não correntes**
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 23]
+# Ativos correntes vs. não correntes
+- **Correntes**:
+  - Detidos para cobrança, venda ou consumo no **ciclo operacional**
+  - Detidos para **negociação**
+  - Esperados ser realizados em **≤ 12 meses**
+  - **Caixa e equivalentes**
+- **Não correntes**: restantes (ex.: **ativos fixos**, intangíveis, investimentos LT)
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 24]
+# Passivos correntes vs. não correntes
+- **Correntes**:
+  - A liquidar no **ciclo operacional** ou **vencem em ≤ 12 meses**
+  - Detidos para **negociação**
+  - Sem direito **incondicional** de diferir pagamento além de 12 meses
+- **Não correntes**: restantes
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 25]
+# Capital próprio — principais componentes
+- **Capital realizado** (capital social)
+- **Resultados transitados**
+- **Resultado líquido** do período
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 26]
+# Equação contabilística
+- **Ativos = Capital Próprio + Passivos**
+- O capital próprio é a **reivindicação residual**:
+  - **Capital Próprio = Ativos – Passivos**
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 27]
+# Demonstração de resultados — visão geral
+- Descreve **atividade** no período:
+  - **Rendimentos** (aumentos brutos do CP por atividade)
+  - **Gastos** (consumo de ativos/serviços usados para gerar rendimentos)
+- Apura o **resultado líquido** (lucratividade)
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 28]
+# Demonstração de resultados — formato típico
+- **Rendimentos** … (+)
+- **Gastos** (exceto juros) … (–)
+- **EBIT**
+- **Juros** … (–)
+- **EBT**
+- **Impostos sobre o rendimento** … (–)
+- **Resultado líquido**
+> **RESULTADO LÍQUIDO = RENDIMENTOS – GASTOS**
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 29]
+# Demonstração de fluxos de caixa — visão geral
+- Mostra como o **saldo de caixa** mudou no período, por:
+  - **Atividade operacional**
+  - **Atividade de investimento**
+  - **Atividade de financiamento**
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 30]
+# Demonstração de fluxos de caixa — esquema
+## Operacional
+- Entradas de caixa … (+)
+- Saídas de caixa … (–)
+## Investimento
+- Entradas de caixa … (+)
+- Saídas de caixa … (–)
+## Financiamento
+- Entradas de caixa … (+)
+- Saídas de caixa … (–)
+### Outras notas
+- Inclui **equivalentes de caixa** (investimentos ST, alta liquidez, baixo risco)
+- Mostra **fontes** e **usos** de caixa
+- Reconcilia **saldo inicial** → **variação** → **saldo final**
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 31]
+# Classificação de fluxos de caixa
+- **Operacional**: diretamente ligado ao **core** do negócio
+- **Investimento**: aquisição/alienação de meios de produção e investimentos
+- **Financiamento**: entradas/saídas de **proprietários** e **credores**
+
+[TEMA: Financial Accounting, FONTE: 1. Introduction  Financial statements.pdf, página 32]
+# Interconexão das demonstrações
+- DF estão **interligadas** (base nos mesmos registos)
+- Exemplos:
+  - **Resultado líquido** surge no **Balanço**, **Resultados** e **Alterações no CP**
+  - **Caixa final** consta no **Balanço** e na **DFC**
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 1]
+# Financial Accounting
+## Fall 2025/2026
+### The accounting process
+João Filipe
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 2]
+## Need for an accounting process
+• Companies face thousands of events and transactions during an accounting period (typically one year)
+• Need for an effective way of analyzing and having the information ready to prepare the financial statements: the accounting process
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 3]
+## The accounting process
+• The accounting process deals with:
+– documents
+– accounts
+– journal
+– ledgers
+– trial balance
+– financial statements
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 4]
+## The accounts
+• An accounting system keeps a separate record for each item that is part of the financial statements
+• This separate record is called an account
+• The monetary effects of transactions are recorded and accumulated in each account
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 5]
+## The account
+• An account consists of three parts:
+– Title: designation of the account
+– Left (or debit) side
+– Right (or credit) side
+
+Title of the account
+Debit side   Credit side
+• It is usually represented in a T shaped format:
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 6]
+## The account
+• Entries are recorded as debits or credits
+• Each account has a balance, which is the difference between the two types of entries:
+– If total debits > total credits
+  • the account has debit balance = D – C
+– If total credits > total debits
+  • the account has credit balance = C – D
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 7]
+## Assets accounts
+• Increases are recorded as debits
+• Decreases are recorded as credits
+• Usually have debit balances
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 8]
+## Liabilities and Owners’ Equity accounts
+• Increases are recorded as credits
+• Decreases are recorded as debits
+• Usually have credit balances
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 9]
+## Expenses accounts
+• Increases are recorded as debits
+• Decreases are recorded as credits
+• Usually have debit balances
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 10]
+## Revenues accounts
+• Increases are recorded as credits
+• Decreases are recorded as debits
+• Usually have credit balances
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 11]
+## Double entry accounting
+• In every transaction record, the total amount entered as debits must equal the total amount entered as credits
+• The rules for debits and credits were designed so that the accounting equation always holds if total debits equal total credits in each transaction
+
+Assets = Liabilities + Equity
++ –   – + – +
+D = C
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 12]
+## Double-entry accounting
+• Steps to record a transaction:
+1. Identify the accounts affected and classify them by type of account (A, L, OE, R, E)
+2. Determine the direction of the effect (increase or decrease) on each account
+3. Verify that the accounting equation (A=L+OE) remains in balance
+
+Remember that revenues and expenses change net income, which is part of owners’ equity
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 13]
+## The accounting process
+• The accounting process usually follows the following steps:
+1. Analyze each transaction for its effects on the accounts
+2. Enter the transaction in a journal
+3. Post the journal information to ledger accounts
+4. Prepare and record adjusting entries
+5. Prepare a trial balance
+6. Prepare the financial statements
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 14]
+## The journal
+• The journal is a chronological record of transactions, showing for each transaction the debits and credits to be entered in specific ledger accounts, and a brief description
+• At convenient intervals, the debit and credit amounts recorded in the journal are transferred (or posted) to the accounts in the ledger and summarized in a trial balance
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 15]
+## The journal – Example
+**GENERAL JOURNAL**
+
+| Date     | Description / Accounts                          | Debit/Credit | Amount  |
+|----------|--------------------------------------------------|--------------|---------|
+| Year N   |                                                  |              |         |
+| 6th Jan  | Company establishment                            |              |         |
+|          | 12 – Check deposits                              | Debit        | 200,000 |
+|          | 51 – Share capital                               | Credit       | 200,000 |
+| 8th Jan  | Acquisition of a building                        |              |         |
+|          | 431 – Tangible fixed assets                      | Debit        | 60,000  |
+|          | 12 – Check deposits                              | Credit       | 60,000  |
+| 10th Jan | Purchase of merchandise                          |              |         |
+|          | 321 – Inventories                                | Debit        | 60,000  |
+|          | 12 – Check deposits                              | Credit       | 60,000  |
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 16]
+## The trial balance
+• A trial balance is a two-column schedule listing the names and balances of all the accounts in the order they appear in the ledger
+• The trial balance allows to check the equality between debit balances and credit balances (which guarantees the accounting equation)
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 17]
+## Trial balance – Example
+**TRIAL BALANCE – December 31st, Year N**
+
+| Account title          | Debit   | Credit  |
+|------------------------|---------|---------|
+| Bank deposits          | 107,000 |         |
+| Accounts receivable    | 35,000  |         |
+| Accounts payable       |         | 50,000  |
+| Inventories            | 50,000  |         |
+| Tangible fixed assets  | 60,000  |         |
+| Share capital          |         | 200,000 |
+| Cost of goods sold     | 60,000  |         |
+| Wages expenses         | 8,000   |         |
+| Sales                  |         | 70,000  |
+| **Total**              | 320,000 | 320,000 |
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 18]
+## Advantages of the trial balance
+• The trial balance proves the equality of the debit and credit entries in the company's accounting system
+– Typical errors when total debits and credits of the trial balance do not agree:
+  • posting of a debit as a credit or vice-versa
+  • mistakes in determining account balances
+  • mistakes in recording the transaction amounts
+• All information needed to prepare the balance sheet and the income statement are resumed in a very simple document
+
+[TEMA: Financial Accounting, FONTE: 2. The accounting process.pdf, página 19]
+## Limitations of the trial balance
+• The trial balance does not allow to detect errors such as:
+– failure to record a business transaction
+– improper analysis of the accounts affected by the transaction
+– the posting of debit or credit entries to the wrong accounts
+
+
+[TEMA: Financial Accounting, FONTE: 3. Revenue recognition  VAT.pdf, página 1]
+# Financial Accounting
+## Fall 2025/2026
+### Revenue recognition
+### Value Added Tax
+João Filipe
+
+[TEMA: Financial Accounting, FONTE: 3. Revenue recognition  VAT.pdf, página 2]
+## Revenue and expense recognition
+• When a company agrees to sell a product or perform a service, it has a performance obligation
+• The revenue recognition principle requires the company to recognize the revenue when the performance obligation is satisfied
+• Expense recognition should be matched with revenue recognition
+
+[TEMA: Financial Accounting, FONTE: 3. Revenue recognition  VAT.pdf, página 3]
+## Revenue recognition
+• Services revenue is recognized when the service is rendered to the customer
+• Sales revenue is recognized when the goods are transferred from the seller to the buyer
+– The cost of goods sold must be recognized in the same accounting period as the sale
+
+Sales — **Credit**
+Cash/Acc. Rec. — **Debit**
+Inventories — **Credit**
+C.O.G.S. — **Debit**
+
+[TEMA: Financial Accounting, FONTE: 3. Revenue recognition  VAT.pdf, página 4]
+## Revenue recognition
+• What if the revenue is generated during more than one accounting period?
+e.g.: consulting services being rendered during 2024 and 2025
+– Recognize the revenue as the service is being rendered:
+➢ Based on time
+Half in 2024 and half in 2025, or the exact number of months in each year
+➢ Based on percentage of completion method:
+Percentage of completion = (Costs incurred to date / Total estimated costs)
+Revenue recognized up to date = Percentage of completion x Total revenue of the project
+
+[TEMA: Financial Accounting, FONTE: 3. Revenue recognition  VAT.pdf, página 5]
+## Revenue recognition
+• What if the revenue regards multiple products (bundle)?
+e.g.: Mobile phone + communications during 24 months
+– The contract price needs to be allocated between the different products and services:
+➢ Allocation in proportion of stand-alone selling prices
+Determine the weight of each product in the total revenue obtained from a customer, if the products were sold separately (stand-alone prices)
+Apply those weights to breakdown the bundle price to each product
+
+[TEMA: Financial Accounting, FONTE: 3. Revenue recognition  VAT.pdf, página 6]
+## Documents
+• When a sale is performed, or a service is rendered, the seller issues a document to the buyer: the invoice
+– An invoice identifies the trading parties, the goods sold or services rendered, the price and discounts (if any), and the payment terms
+• Adjustment to a previously issued invoice (e.g., amounts or quantities involved) may be done using credit notes (–) or debit notes (+)
+
+[TEMA: Financial Accounting, FONTE: 3. Revenue recognition  VAT.pdf, página 7]
+## Sales returns
+• Sales returns are recognized as a revenue reduction
+– The cost of goods sold must have the corresponding reduction as well
+– Invert the record of a sale
+– Reduce sales revenue and cost of goods sold
+• Symmetric to a sale
+
+Sales — **Debit**
+Cash/Acc. Rec. — **Credit**
+Inventories — **Debit**
+C.O.G.S. — **Credit**
+
+[TEMA: Financial Accounting, FONTE: 3. Revenue recognition  VAT.pdf, página 8]
+## Sales discounts
+• There are two main types of discounts:
+– Sales allowances / trade discounts
+recorded as a reduction in the sales revenue
+– Cash (prompt payment) discounts
+recorded as an expense (gross price method)
+
+[TEMA: Financial Accounting, FONTE: 3. Revenue recognition  VAT.pdf, página 9]
+## Sales discounts
+• Sales allowances / trade discounts
+– If stated in the invoice, the sales revenue is recorded by the net amount
+– If stated by means of a credit note issued after the invoice, recognized as a reduction to sales revenue
+
+[TEMA: Financial Accounting, FONTE: 3. Revenue recognition  VAT.pdf, página 10]
+## Sales discounts
+• Cash (prompt payment) discounts
+– Is only recorded when the customer pays within the conditions that entitle him to the discount
+– The sales revenue is recorded by the gross amount (without the discount)
+– The discount is recorded as an expense (in “Other expenses”)
+– No difference between recording a cash discount stated in the invoice or in a credit note
+
+[TEMA: Financial Accounting, FONTE: 3. Revenue recognition  VAT.pdf, página 11]
+## Advanced payments
+• A payment made in advance by a customer is recognized as a liability
+• The revenue is only recognized when the sale is performed (or the service is rendered)
+– In that moment the advance is reversed from a liability to an asset reduction (accounts receivable)
+
+[TEMA: Financial Accounting, FONTE: 3. Revenue recognition  VAT.pdf, página 12]
+## Value Added Tax (VAT)
+• Governments charge a tax on the gross value added by companies
+– Gross value added refers to the sale price a business charges the customer for a product, minus the cost of materials and other taxable inputs
+• It results in a consumption tax since the final consumer is who actually pays the entire VAT amount
+
+[TEMA: Financial Accounting, FONTE: 3. Revenue recognition  VAT.pdf, página 13]
+## VAT – The mechanism
+• Companies charge VAT over the total amount of issued invoices (Charged VAT)
+– VAT rates and amounts charged are clearly stated in the invoices
+• The VAT in invoices issued to the companies by their suppliers is, generally, deducted from the VAT received from customers (Deductible VAT)
+
+[TEMA: Financial Accounting, FONTE: 3. Revenue recognition  VAT.pdf, página 14]
+## VAT – The mechanism
+• Charged VAT generates a liability towards the government
+• Deductible VAT reduces that liability
+• Thus, a company’s liability regarding VAT is computed as the difference between charged VAT and deductible VAT
+– In the limit, deductible VAT may turn VAT from a liability into an asset, and the company is entitled to a VAT reclaim (VAT receivable)
+
+[TEMA: Financial Accounting, FONTE: 3. Revenue recognition  VAT.pdf, página 15]
+## VAT liability increases
+• Examples of events that increase VAT payable:
+– Sales
+– Services rendered
+– Discounts obtained from suppliers
+– Purchase returns
+– Advances received from customers
+– Reversal of advances paid to suppliers
+
+[TEMA: Financial Accounting, FONTE: 3. Revenue recognition  VAT.pdf, página 16]
+## VAT liability reductions
+• Examples of events that decrease VAT payable:
+– Purchases of merchandise, supplies or services
+– Discounts given to customers
+– Sales returns
+– Advances paid to suppliers
+– Reversal of advances received from customers
+
+[TEMA: Financial Accounting, FONTE: 3. Revenue recognition  VAT.pdf, página 17]
+## VAT – Impact in financial statements
+• Notice that VAT has no impact in income statement amounts:
+– VAT is (generally) neither revenue nor expense for a company
+• However, VAT has impact in the balance sheet:
+– increases the amounts received (or receivable) from customers and paid (or payable) to suppliers
+– generates a new account payable (or receivable)
+
+[TEMA: Financial Accounting, FONTE: 3. Revenue recognition  VAT.pdf, página 18]
+## Non-deductible VAT
+• Although the general case is that VAT in purchases is deductible, there are some situations where the company is seen as a final consumer and, therefore, VAT is not deductible
+– For example, in Portugal: light passenger vehicles, gasoline, meals, parties, airplanes, etc.
+• In such cases, the VAT is added to the value of the asset or expense being bought, thus having impact (present or future) in income statement amounts.
+
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 1]
+# Financial Accounting
+## Fall 2025/2026
+### Inventories
+João Filipe
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 2]
+## Inventories
+• Assets held-for-sale in the ordinary course of business, in the process of production for sale, or to be consumed in the production of goods or services
+• Include:
+– Merchandise
+– Raw materials
+– Work in process
+– Finished goods
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 3]
+## Transportation costs
+• When transportation costs on purchases must be supported by the buyer, these costs should be added to the amount recorded as inventories with the purchase
+• These transportation costs include all associated costs supported by the buyer:
+– the transport itself
+– insurance policies on the transport
+– taxes and fees on the transport
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 4]
+## Merchandising vs. Manufacturing activities
+• Merchandising companies:
+– purchase inventories from other entities in a ready-to-sale condition
+– do not change the characteristics of the goods
+– simple operating cycle (just reselling)
+• Manufacturing companies:
+– manufacture their own inventories
+– buy raw materials or intermediate goods and transform them into a new good
+– more complex operating cycle (includes production)
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 5]
+## Cost of goods sold (COGS)
+• The main revenue of merchandising companies is the sales revenue
+• Sales revenue is the amount charged to customers
+• When inventories are sold the firm cease owning them
+– Sold inventories are not an asset of the firm anymore
+– Sold inventories must be removed from the balance sheet and transferred to the income statement as a cost (expense) to offset sales revenue – the COGS
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 6]
+## Inventory systems
+• The moment and way of calculating the COGS depends on the type of inventory system used
+• There are two types on inventory systems:
+– Perpetual inventory system
+– Periodic inventory system
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 7]
+## Perpetual inventory system
+• All inflows and outflows of inventories are recorded at the moment they are identified
+– Cost of goods sold is recorded every time a sale occurs
+• Inventories balance and records are always up-to-date
+• A physical inventory is advisable at the end of the accounting period to guarantee the accuracy of the records (check for unexpected changes in inventories)
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 8]
+## Periodic inventory system
+• Inventory records are up-to-date only after performing a complete physical inventory (usually at the end of the accounting period)
+• The physical inventory provides the amount of inventories to be presented in the balance sheet
+• Cost of goods sold is recorded just after the physical inventory, and determined as:
+COGS = Initial Inv. + Purchases – Final Inv.
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 9]
+## Inventories valuation
+• Inventories can be valued according to different methods:
+– Specific identification
+– Cost flow assumptions (for homogeneous goods)
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 10]
+## Specific identification
+• Recognize the real cost of each unit sold
+• Achieves the perfect matching of sales revenue and COGS
+• Used if the individual units in the inventory are unique
+• Not used if the products are homogeneous
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 11]
+## Cost flow assumptions
+• If inventory are homogeneous a cost flow assumption is used
+• Make an assumption on the sequence by which units are sold:
+– FIFO (First-In-First-Out)
+– LIFO (Last-In-First-Out)
+– Average cost
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 12]
+## FIFO (First-In-First-Out)
+• Assume the first units to be sold are the ones that were bought in the first place
+• Therefore, inventory is assumed to be made of the most recently purchased units
+• We may have multiple cost layers in each sale and in the inventory
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 13]
+## LIFO (Last-In-First-Out)
+• Assume the first units to be sold are the ones that were bought in the last place (the more recent ones)
+• Therefore, inventory is assumed to be made of the oldest purchased units
+• We may have multiple cost layers in each sale and in the inventory
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 14]
+## Average cost
+• Value all units in inventory at the same average cost per unit
+• The cost is recomputed after each purchase by dividing the total cost of goods available for sale by the number of units in inventory (weighted average)
+• We have only one cost layer in each sale and in the inventory
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 15]
+## Relations between methods
+• If the price of the good increases over time, the COGS computed using FIFO is usually the smallest
+
+COGS (FIFO) ≤ COGS (average cost) ≤ COGS (LIFO)
+
+• Regarding final inventories, the inverse relation holds:
+
+Inventory (FIFO) ≥ Inventory (average cost) ≥ Inventory (LIFO)
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 16]
+## Relations between methods
+• If the price of the good decreases over time, the COGS computed using FIFO is usually the highest
+
+COGS (FIFO) ≥ COGS (average cost) ≥ COGS (LIFO)
+
+• Regarding final inventories, the inverse relation holds:
+
+Inventory (FIFO) ≤ Inventory (average cost) ≤ Inventory (LIFO)
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 17]
+## Advantages of each method
+• FIFO:
+– Ending inventory approximates current replacement cost
+• LIFO:
+– Better match between the current COGS and sale revenue
+• Average cost:
+– Smoothes price changes
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 18]
+## Limits to the use of LIFO
+• LIFO is not allowed in most regulatory frameworks and countries, including Portugal
+– The use of LIFO is not permitted under IAS/IFRS
+IASB states that LIFO does not provide a reliable representation of recent cost levels of inventory in the balance sheet
+• LIFO is allowed under US GAAP
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 19]
+## Principle of consistency
+• Once a company has adopted a particular accounting method it must follow that method from year to year
+• The effects of any change in method must be fully disclosed in the notes to the financial statements
+• It is intended to make the company’s financial statements comparable from year to year (qualities of financial information)
+
+[TEMA: Financial Accounting, FONTE: 4. Inventories.pdf, página 20]
+## Physical inventories
+• Complete physical count of the merchandises and materials controlled by the firm
+– followed by the application of unit prices to the quantities counted to calculate the value of the inventory
+• In periodic inventory systems, it allows to calculate the ending inventory and COGS
+• In perpetual inventory systems, it allows to verify the ending inventory and identify unrecorded shrinkage losses
+
+[TEMA: Financial Accounting, FONTE: 5. Taxes and Gov acc.pdf, página 1]
+# Summary of Taxes and Government Accounts
+
+## 1. Corporate Income Taxes
+- Corporate income taxes are an expense for the company, charged on the Earnings Before Taxes (EBT).
+- **Simplified Calculation (curso):** assume taxable EBT = accounting EBT.
+  **Income tax expense = EBT × Tax rate**
+- **Timing:** final income tax expense computed at the end of the accounting period (tipicamente ano).
+- **Recording (year-end):**
+  - **Debit:** Income tax expense
+  - **Credit:** Income tax payable (liability)
+- **Collection (antes do fim do período):** via **Payments on account** e **Withholding taxes**.
+  Ambos originam **débito** na conta de “government accounts payable/receivable”, reduzindo a dívida final ou criando um ativo.
+
+## 2. Tax Collection Mechanisms (Prepayments)
+- **Payment on Account:** adiantamentos para a conta do imposto final; baseados no imposto do ano anterior
+  *(em Portugal: tipicamente julho, setembro e dezembro)*.
+- **Withholding Taxes (ao receber proveitos):**
+  - Parte é retida pelo pagador.
+  - A empresa recebe **montante líquido** < **montante bruto**; a parcela retida é **debitada** à conta de imposto a receber/pagar.
+
+## 3. Company as Intermediary
+- Em alguns casos (p.ex., **IVA**, **retenções na fonte**), a empresa atua como **intermediária** de cobrança para o Estado.
+- **Withholding Taxes (ao pagar gastos):**
+  - A empresa funciona como **agente cobrador**.
+  - Paga o **líquido** ao fornecedor e mantém o **valor retido** como **passivo (Tax withholding acc. payable)** até entrega ao Estado.
+
+## 4. Social Security Taxes
+- **Contribuições** de **empregador** e **trabalhador**.
+- **Parcela do empregador:** **despesa** adicional de pessoal.
+- **Parcela do trabalhador:** imposto do trabalhador; a empresa **retém** do salário bruto e **entrega** à Segurança Social; **não** afeta as despesas da empresa.
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 1]
+# Financial Accounting — Fall 2025/2026
+## Owners’ Equity — João Filipe
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 2]
+# Owners’ Equity
+- Ownership claim on the assets of the entity
+- What is left to shareholders after paying the liabilities (**residual claim**)
+- Part of the company that goes to the shareholders
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 3]
+# Financing decision
+- Duas fontes principais de financiamento:
+  - **Equity investors (stockholders)**
+  - **Creditors (lenders)**
+- A decisão de **capital structure** depende de:
+  - tipo de **ativos** a financiar
+  - **condições** de mercado financeiro
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 4]
+# Bonds vs. Stocks
+|                       | **Bonds** | **Stocks** |
+|---|---:|---:|
+| Provide ownership of the company? | **No** | **Yes** |
+| Pay a determined return to the investor? | **Yes** | **Usually No** |
+| Return taxable to investor? | **Yes** | **Yes** |
+| Return tax-deductible to payer? | **Yes** | **No** |
+| Determined maturity date? | **Yes (usually)** | **No** |
+| Level of risk to the investor | **Lower** | **Higher** |
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 5]
+# Balance sheet financial analysis
+- **Investment decision**
+  - Long-term investments
+  - Short-term investments
+  - Cash
+- **Financing decision**
+  - Owner’s equity
+  - Long-term liabilities
+  - Short-term liabilities
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 6]
+# Owners’ equity items
+- Share capital
+- Treasury stock (**negative**)
+- Share premium
+- Retained earnings & Reserves
+- Revaluation surpluses
+- Other changes in owners’ equity
+- Net income
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 7]
+# Issuance of share capital
+- Capital stock representado por **certificados (shares)** emitidos por caixa ou outros ativos
+- Cada ação tem **par value** (legal capital por ação; **face/nominal**)
+- Emissão:
+  - **at par**
+  - **above par** (com **premium**)
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 8]
+# Issuance of share capital (new assets)
+- Registo:
+  - **Credit:** Share capital (par)
+  - **Credit:** Share premium (excesso sobre par, se existir)
+  - **Debit:** Cash (ou outros ativos) pelo total recebido
+
+Share premium (C)
+Share capital  (C)
+Asset         (D)
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 9]
+# Issuance of share capital (retained earnings)
+- Usar **retained earnings** de períodos anteriores:
+  - **Credit:** Share capital (par)
+  - **Credit:** Share premium (se existir)
+  - **Debit:** Retained earnings ou Reserves pelo total
+
+Share premium        (C)
+Share capital        (C)
+Retain. earn./Reserves (D)
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 10]
+# Differences in capital increases
+- **Com novos ativos:** ↑ **assets** e ↑ **equity** ⇒ **mais recursos**
+- **Via retained earnings/reserves:** altera **composição** do equity; **sem** mudança em total de **assets, liabilities ou equity** ⇒ **mesmos recursos**
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 11]
+# Stockholders’ rights
+- Votar
+- Eleger o board of directors
+- Participar em **dividendos**
+- Partilhar na distribuição de **ativos** em liquidação
+- Ser informado sobre **factos** relevantes
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 12]
+# Publicly vs. Privately held companies
+- **Privately held:**
+  - Sem negociação em bolsa
+  - Ações detidas por poucos (ex.: empresa familiar)
+- **Publicly owned:**
+  - Listadas em bolsa
+  - Ações com **preço de mercado**
+  - **Regulação** mais forte
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 13]
+# Market price of shares
+- **Diferente** do **book value**
+- Fatores:
+  - Passado, fundamentos, expectativas, condições de mercado, estado da economia, comportamento de especuladores, (…)
+- **Stock splits**
+- O **preço de mercado não afeta** as demonstrações financeiras
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 14]
+# Decision on previous years results
+- Anualmente os sócios decidem o destino do resultado:
+  - **Reter** (retained earnings ou reserves)
+  - **Distribuir** (dividendos)
+- Em caso de **prejuízo**: reter o prejuízo (ou pedir aos sócios para o cobrir)
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 15]
+# Decision on previous years results (processo)
+- Em **assembleia** os sócios aprovam:
+  - Demonstrações financeiras do período anterior
+  - Proposta do board sobre o destino do resultado
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 16]
+# Decision on previous years results (registos)
+- Se **reter**: permanece em **owners’ equity** (balance sheet)
+- Se **pagar dividendos**: transfere de **equity** para **liabilities** (a favor dos sócios) e depois **paga**
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 17]
+# Retaining earnings
+- **Reserves:** lucros passados mantidos com propósito (ex.: obrigação legal, cobrir perdas futuras, pagar dividendos no futuro, …)
+  *Ex.: em Portugal existe reserva legal anual mínima.*
+- **Retained earnings:** lucros/prejuízos passados **sem** propósito específico
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 18]
+# Decision on previous years results (lancamentos)
+- Se parte **retida** e parte **distribuída**:
+  - **Debit:** Previous year net income (ou retained earnings)
+  - **Credit:** Accounts payable to shareholders
+  - **Credit:** Retained earnings e/ou Reserves
+
+Retain. earn./Reserves (C)
+Shareholders acc. pay. (C)
+Net inc./Retain. earn. (D)
+
+---
+
+[TEMA: Financial Accounting, FONTE: 6. Owners Equity.pdf, página 19]
+# Payment of dividends
+- Pagar aos sócios o **passivo** registado na decisão:
+  - **Debit:** Shareholders accounts payable
+  - **Credit:** Tax withholding (se aplicável)
+  - **Credit:** Cash/Check deposits
+
+Cash / Check deposits   (C)
+Tax withholding acc. p. (C)
+Shareholders acc. pay.  (D)
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 1]
+# Financial Accounting — Fall 2025/2026
+## Tangible fixed assets and intangible assets — João Filipe
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 2]
+# Fixed assets
+- Ativos **usados nas operações**
+- Beneficiam **períodos futuros** (vida útil longa)
+- Categorias:
+  - **Tangible fixed assets (plant assets)**
+  - **Intangible assets**
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 3]
+# Tangible fixed assets (PP&E)
+- Têm **substância física**:
+  - **Land** (*não* sofre depreciação)
+  - **Sujeitos a depreciação:** Buildings, machines, vehicles, …
+  - **Recursos naturais** (depletion): oil/mineral deposits, timber, …
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 4]
+# Recognition of T.F.A.
+- Reconhecidos e medidos ao **acquisition cost** (inclui despesas para pôr a uso) ou **production cost**
+  - **Materiality**; **Historical cost**
+- **Capitalization of financial costs:**
+  - Juros incorridos na **produção** de um plant asset podem ser **capitalizados**
+  - **Capitalizar** = registar como **ativo**
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 5]
+# VAT on acquired T.F.A.
+- **VAT dedutível:** reconhecido em **government account** ⇒ acquisition cost **pré-IVA**
+- **VAT não dedutível:** **adicionado** ao acquisition cost ⇒ será depreciado com o ativo
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 6]
+# Net book value
+- Valor líquido de apresentação: **Acquisition cost – Accumulated depreciation** (± outros ajustamentos)
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 7]
+# Useful life
+- Período em que o ativo depreciável é **útil** ao negócio
+- Período sobre o qual o custo é **alocado à depreciação**
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 8]
+# Residual value
+- Valor esperado no **fim** da vida útil
+- Parcela **não depreciável** do ativo
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 9]
+# Depreciation
+- Alocação do custo do ativo depreciável **à despesa** ao longo da vida útil
+- Quantia **estimada**
+- **Land** não é depreciado
+
+T.F.A. – Accumulated Depreciation (C)
+Depreciation expense            (D)
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 10]
+# Depreciation rate
+- Taxa usada para multiplicar o montante a depreciar e obter a despesa de cada período
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 11]
+# Depreciation method
+- Métodos:
+  - **Straight-line (time based)**
+  - **Accelerated time based**
+  - **Usage-based methods**
+- O mais usado: **straight-line**
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 12]
+# Comparing depreciation methods
+- Todos dão **mesmo total** de depreciação ao longo da vida
+- Benefícios fiscais de métodos acelerados são **reais** (afetam imposto)
+- **Menos imposto hoje** ⇒ **mais cash** disponível no presente
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 13]
+# Straight-line method
+**Depreciation Expense = (Cost – Residual Value) / Years of Useful Life**
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 14]
+# Annual basis or monthly basis
+- **Annual:** calcular 1 ano inteiro para TFA detidos no fim do ano
+- **Monthly:** calcular por mês para TFA detidos no fim de cada mês; reconhecimento **mensal** ou **anual**
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 15]
+# Maintenance and repairs
+- **Despesas** no período em que ocorrem
+- Depreciação trata da **perda de valor**; **não** da manutenção
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 16]
+# Disposal of tangible fixed assets
+- Na venda: comparar **sale amount** com **net book value** ⇒ **gain/loss**
+- Registos:
+  - **Credit:** T.F.A. (acquisition cost)
+  - **Debit:** Accumulated depreciation (total acumulado)
+  - **Debit:** Cash/AR pelo valor de venda
+  - **Recognize:** gain or loss
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 17]
+# Intangible assets
+- **Identificáveis**, sem substância física:
+  - Patents, Copyrights, Trademarks, (…)
+- **Amortization**: write-off sistemático ao longo da vida útil (análogo à depreciação)
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 18]
+# Intangible assets recognition — critérios
+- Reconhecer **se, e só se**:
+  - Provável afluxo de **benefícios económicos futuros**
+  - **Custo** mensurável **confiavelmente**
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 19]
+# Intangible assets recognition — mensuração
+- Reconhecidos ao **acquisition cost** (inclui despesas para pôr a uso) ou **generation cost**
+- **Internally generated:**
+  - **Pesquisa** (ou fase de pesquisa) **não** é reconhecida
+  - **Development costs** só são capitalizados após **viabilidade técnica e comercial** demonstrada
+
+---
+
+[TEMA: Financial Accounting, FONTE: 7. Tangible fixed assets and intangible assets.pdf, página 20]
+# Goodwill
+- Intangible comum em **consolidadas**
+- Montante pago por **atributos favoráveis** não registados no BS da adquirida:
+  - Superior management, qualidade de clientes/empregados, marca interna, (…)
+- **Só** goodwill **adquirido** é ativo; goodwill **interno** não é apresentado
+- **Purchase price – fair value** dos net assets adquiridos
+- Vida **indefinida**
+
+---
+
+[TEMA: Financial Accounting, FONTE: 8. Leases.pdf, página 1]
+# Leases — Summary
+
+## Lease Definition
+- Acordo em que o **lessor** permite ao **lessee** usar um ativo em troca de **renda (rent)**.
+
+## Financial Lease (Capital Lease)
+**Substância:** assemelha-se a **empréstimo**.
+- Lessee escolhe o ativo; lessor compra e **aluga** ao lessee.
+- Lessee detém **uso, riscos e responsabilidades** do ativo.
+- Rendas = **juros + reembolso de capital**.
+- Normalmente há **opção de compra** no fim.
+- Lessor atua como **finance company**.
+- **Substance over form:** o ativo é reconhecido **pelo lessee** (controlo/risco económicos).
+
+### Accounting Treatment
+- **Lessee:**
+  - Reconhece **ativo** e **deprecia**; reconhece **passivo (loan)** para com o lessor.
+  - Rendas: **interest expense** + **loan reimbursement**.
+- **Lessor:**
+  - Reconhece **accounts receivable** do lessee.
+  - Rendas: **interest revenue** + redução do **accounts receivable**.
+
+## Call Option
+- Se o lessee exercer a opção, o pagamento é tratado como **renda adicional**; não há novo registo de ativo (já reconhecido no início do contrato).
+
+## VAT Treatment
+- IVA incide sobre as rendas.
+- **VAT dedutível:** ativo, passivo, reembolsos e juros **sem IVA**; IVA dedutível **debitado** à conta governamental apropriada.
+- **VAT não dedutível:** valores **com IVA**; IVA é alocado entre **reembolso** e **interest expense**.
+
+[TEMA: Financial Accounting, FONTE: 9. Investment properties.pdf, página 1]
+# Investment properties
+
+[TEMA: Financial Accounting, FONTE: 9. Investment properties.pdf, página 2]
+# Investment assets
+- An asset that is purchased with the expectation that it will generate income or appreciate in the future
+- Two main types of investment assets:
+  - Financial investments
+    (e.g. shares of other companies, bonds, derivatives,…)
+  - Investment properties
+
+[TEMA: Financial Accounting, FONTE: 9. Investment properties.pdf, página 3]
+# Investment property
+- An asset purchased with the intention of earning return by renting it, by future resale, or both
+  (e.g. a building purchased to rent)
+- Investment properties are recorded as an asset (typically a non current one)
+- Recorded by the acquisition cost (including all necessary and unavoidable expenses)
+
+[TEMA: Financial Accounting, FONTE: 9. Investment properties.pdf, página 4]
+# Investment property valuation
+- Investment properties may be valued using two methods:
+  - Depreciated cost
+  - Fair value
+
+[TEMA: Financial Accounting, FONTE: 9. Investment properties.pdf, página 5]
+# Depreciated cost
+- The depreciated cost method is the one used for tangible fixed assets as well:
+  - The asset is initially recorded by the acquisition cost
+  - The acquisition cost is depreciated each economic period using an appropriate method and useful life
+  - Each year, the value presented in the balance sheet is the net book value of the asset
+
+[TEMA: Financial Accounting, FONTE: 9. Investment properties.pdf, página 6]
+# Fair value
+- The fair value method intends to ensure that the asset is presented in the balance sheet at its fair value, i.e., its market value:
+  - The asset is initially recorded by the acquisition cost
+  - By the end of each economic period, the fair value of the asset is determined (valuation of the asset by an evaluator)
+  - Each year, the company recognizes a gain (revenue) or a loss (expense) corresponding to the change in the fair value
+
+
+
+[TEMA: Financial Accounting, FONTE: 10. Impairment, allowances and write-downs.pdf, página 1]
+# Impairment, allowances and write-downs
+
+[TEMA: Financial Accounting, FONTE: 10. Impairment, allowances and write-downs.pdf, página 2]
+# Adjusting the value of assets
+- Assets may be subject to unexpected losses of value
+- Prudence dictates an adjustment in the net amount of such assets and the corresponding recognition of a loss
+
+[TEMA: Financial Accounting, FONTE: 10. Impairment, allowances and write-downs.pdf, página 3]
+# Adjusting the value of assets
+- Depending on the type of asset, this adjustment takes different names
+  - Accounts receivable: Allowances
+  - Inventories: Write-down
+  - Tangible fixed assets/intangible assets: Impairment
+- Despite the different names, the impact is the same
+  - a reduction in the value of the asset (balance sheet)
+  - an increase in losses/expenses (income statement)
+
+[TEMA: Financial Accounting, FONTE: 10. Impairment, allowances and write-downs.pdf, página 4]
+# Accounts receivable – Allowances
+- Some accounts receivable turn out to be very hard to collect
+- If a company considers there is a considerable probability that someone owing cash will not pay, that debt is considered doubtful (or a bad debt)
+- In such cases, the amount of accounts receivable must be adjusted by means of an allowance for doubtful debts
+
+[TEMA: Financial Accounting, FONTE: 10. Impairment, allowances and write-downs.pdf, página 5]
+# Recording allowances for bad debts
+- To record increases in allowances for bad debts, companies recognize the reduction of accounts receivable (using a contra-asset account) and the expense
+
+Debit: {Allowances expense}
+Credit: {Accumulated allowances}
+
+[TEMA: Financial Accounting, FONTE: 10. Impairment, allowances and write-downs.pdf, página 6]
+# Allowance reversal
+- As a result of developments regarding accounts receivable, companies may find out that the previously recorded allowances are not needed anymore
+- In such cases, the previously recognized allowance excess must be reversed
+
+Debit: {Accumulated allowances}
+Credit: {Allowance reversal (revenue)}
+
+[TEMA: Financial Accounting, FONTE: 10. Impairment, allowances and write-downs.pdf, página 7]
+# Recording allowances for bad debts
+- Notice that accumulated allowances is a contra-asset account. Thus, the balance of this accounts goes from one period to the next
+- In each period, companies must determine the amount of allowances needed (looking at the volume of bad debts) and compare that to previously recognized allowances
+→ Only recognize the increase/decrease in allowances
+
+[TEMA: Financial Accounting, FONTE: 10. Impairment, allowances and write-downs.pdf, página 8]
+# Inventories – Write-down
+- Write-down is the reduction in the value of an inventory because it is overvalued. This may be the result of, for example:
+  - Damage
+  - Obsolescence
+  - Lack of demand for the inventory
+- Not to present an overvalued inventory in the balance sheet, a loss must be recognized
+
+[TEMA: Financial Accounting, FONTE: 10. Impairment, allowances and write-downs.pdf, página 9]
+# Recording inventories write-downs
+- To record increases in inventories write-downs, companies recognize the reduction of inventories (using a contra-asset account) and the expense
+
+Debit: {Write-down expense}
+Credit: {Accumulated write-downs}
+
+[TEMA: Financial Accounting, FONTE: 10. Impairment, allowances and write-downs.pdf, página 10]
+# Write-down reversal
+- As a result of developments regarding inventories, companies may find out that the previously recorded write-downs are not needed anymore
+- In such cases, the previously recognized write-down excess must be reversed
+
+Debit: {Accumulated write-downs}
+Credit: {Write-down reversal (revenue)}
+
+[TEMA: Financial Accounting, FONTE: 10. Impairment, allowances and write-downs.pdf, página 11]
+# Recording inventories write-downs
+- Notice that accumulated write-down is a contra-asset account. Thus, the balance of this accounts goes from one period to the next
+- In each period, companies must determine the amount of write-downs needed (looking at the value of inventories) and compare that to previously recognized write-downs
+→ Only recognize the increase/decrease in write-downs
+
+[TEMA: Financial Accounting, FONTE: 10. Impairment, allowances and write-downs.pdf, página 12]
+# T.F.A. / I.A. – Impairment
+- Impairment is the loss of a significant portion of the utility of a tangible fixed asset (or an intangible asset) for due to, for example:
+  - Damage
+  - Obsolescence
+  - Lack of demand of the services provided by the asset
+- If an asset suffers impairment, a loss must be recognized
+
+[TEMA: Financial Accounting, FONTE: 10. Impairment, allowances and write-downs.pdf, página 13]
+# Impaired assets
+- According to IAS 36:
+  - An asset is impaired when its carrying amount exceeds its recoverable value
+  - The carrying amount (or net book value) is the amount at which the asset is recognized in the balance sheet (after deducting any accumulated depreciation and impairment loss)
+  - The recoverable amount of an asset is the higher of:
+    - Net selling price (fair value)
+    - Value in use
+
+[TEMA: Financial Accounting, FONTE: 10. Impairment, allowances and write-downs.pdf, página 14]
+# Identifying impaired assets
+- If there is indication that an asset can be impaired, perform an impairment test on that asset:
+  - Determine the recoverable amount
+  - Compare it with the carrying amount
+- A list of external and internal factors indicating that an asset can be impaired is provided in IAS 36
+
+[TEMA: Financial Accounting, FONTE: 10. Impairment, allowances and write-downs.pdf, página 15]
+# Recoverable amount
+- The recoverable amount is the higher of:
+  - Net selling price
+    • Amount obtainable from sale in arm’s length transaction between well-informed and willing parties, less costs of disposal
+  - Value in use
+    • Present value of estimated future cash flows expected to arise from continued use and disposal at end of useful life
+
+[TEMA: Financial Accounting, FONTE: 10. Impairment, allowances and write-downs.pdf, página 16]
+# Recording impairment losses
+- The impairment amount is the positive difference between the carrying amount and the recoverable amount
+- To record a impairment loss in an asset companies recognize the reduction of value of the asset and the loss
+
+Debit: {Impairment losses (expense)}
+Credit: {Accumulated impairment}
+
+[TEMA: Financial Accounting, FONTE: 10. Impairment, allowances and write-downs.pdf, página 17]
+# Impairment reversal
+- As a result of developments regarding an asset that was previously subject to impairment, companies may find out that the previously recorded impairment is not needed anymore
+- In such cases, the previously recognized impairment excess must be reversed
+
+Debit: {Accumulated impairment}
+Credit: {Impairment reversal (revenue)}
+
+[TEMA: Financial Accounting, FONTE: 10. Impairment, allowances and write-downs.pdf, página 18]
+# Recording impairment losses
+- Notice that accumulated impairment is a contra-asset account. Thus, the balance of this accounts goes from one period to the next
+- In each period, companies must determine the amount of impairment needed (looking at the value of assets) and compare that to previously recognized impairments
+→ Only recognize the increase/decrease in impairment
+
+
+
+[TEMA: Financial Accounting, FONTE: 11. Provisions.pdf, página 1]
+# Provisions
+
+[TEMA: Financial Accounting, FONTE: 11. Provisions.pdf, página 2]
+# Provisions
+- Provisions are liabilities of uncertain timing or amount
+- Regulated by IAS 37
+- Recognized when there is a liability i.e. an obligation resulting from past events
+
+[TEMA: Financial Accounting, FONTE: 11. Provisions.pdf, página 3]
+# Measurement of provisions
+- Measured at the best estimate (including risks and uncertainties) of the expenditure required to settle the present obligation
+  - Provisions for one-off events (restructuring, environmental clean-up, settlement of a lawsuit) are measured at the most likely amount
+  - Provisions for large populations of events (warranties, customer refunds) are measured at a probability-weighted expected value
+
+[TEMA: Financial Accounting, FONTE: 11. Provisions.pdf, página 4]
+# Recording provisions
+- To record a provision, companies typically recognize a liability and the corresponding expense
+
+Debit: {Provisions of the period (Expense)}
+Credit: {Provisions (Liability)}
+
+[TEMA: Financial Accounting, FONTE: 11. Provisions.pdf, página 5]
+# Use of provisions
+- Provisions should only be used for the purpose for which they were originally recognised
+- When a company must pay the responsibility, it records a cash outflow and a liability decrease
+
+Debit: {Provisions (Liability)}
+Credit: {Cash / Check deposits (Asset)}
+
+[TEMA: Financial Accounting, FONTE: 11. Provisions.pdf, página 6]
+# Reversal of provisions
+- Provisions may no longer be needed or may be found out to have been recognized in excess
+- In such cases, the excess amount of recognized provisions must be reversed
+
+Debit: {Provisions (Liability)}
+Credit: {Provision reversal (Revenue)}
+
+
+
+[TEMA: Financial Accounting, FONTE: 12. Adjusting entries.pdf, página 1]
+# Adjusting entries
+
+[TEMA: Financial Accounting, FONTE: 12. Adjusting entries.pdf, página 2]
+# Adjusting entries
+- When measuring net income for a given period we want to include all revenues and expenses related to that period
+- However, some business transactions affect revenues and expenses of more than one period
+- For those, we need adjusting entries
+
+[TEMA: Financial Accounting, FONTE: 12. Adjusting entries.pdf, página 3]
+# Accrual basis of accounting
+- When using accrual basis:
+  - Revenues are recognized when earned
+  - Expenses are recognized when the related goods or services are used
+- Matching principle:
+  - Revenues are offset with all expenses incurred to generate those revenues
+
+[TEMA: Financial Accounting, FONTE: 12. Adjusting entries.pdf, página 4]
+# Depreciation
+- Depreciation is the allocation of the cost of an asset (usually a fixed asset) to expense during the asset’s useful life
+- Although fixed assets are not physically consumed, they lose usefulness and value as time goes by
+- The depreciation mechanism reflects this loss by reducing the book value of the asset and recognizing an expense in the income statement
+  (converting assets into expenses)
+- Depreciation is a noncash expense
+
+[TEMA: Financial Accounting, FONTE: 12. Adjusting entries.pdf, página 5]
+# Accrual basis adjusting entries
+- Converting assets to expenses
+  (the document was issued before the expense)
+- Converting liabilities to revenues
+  (the document was issued before the revenue)
+- Accruing unpaid expenses
+  (the expense is incurred before the document exists)
+- Accruing uncollected revenues
+  (the revenue is earned before the document exists)
+
+[TEMA: Financial Accounting, FONTE: 12. Adjusting entries.pdf, página 6]
+# Accruals and deferrals
+- Used to adjust for timing differences between the moment when the supporting document is issued and the moment when the revenue or expense takes place
+- Accruals: recognize in the current period revenues or expenses for which the supporting document will just be issued in the future
+- Deferrals: postpone (to future accounting periods) the recognition of a revenue or an expense for which the document is already issued
+
+[TEMA: Financial Accounting, FONTE: 12. Adjusting entries.pdf, página 7]
+# Accruing unpaid expenses
+- Record expenses already incurred but not yet recorded
+- Typically cases when services are used before the invoice is received or the payment occurs
+  (e.g. services used in the last days of the period, wages, interest)
+
+Debit: {Expense}
+Credit: {Accrued expenses (Liability)}
+
+[TEMA: Financial Accounting, FONTE: 12. Adjusting entries.pdf, página 8]
+# Accruing uncollected revenues
+- Record revenues already earned but not yet recorded
+- Typically cases when services are rendered before the invoice is issued or the money is received
+  (e.g. services rendered in the last days of the period, interest)
+
+Debit: {Accrued revenues (Asset)}
+Credit: {Revenue}
+
+[TEMA: Financial Accounting, FONTE: 12. Adjusting entries.pdf, página 9]
+# Deferring revenues
+- Postpone the recognition of a revenue for which the relevant document is already issued
+- Typically cases of sales or services invoiced before the transaction takes place (e.g. rents, services prepaid by customers)
+
+Debit: {Accounts receivable / Cash}
+Credit: {Deferred revenues (Liability)}
+
+[TEMA: Financial Accounting, FONTE: 12. Adjusting entries.pdf, página 10]
+# Deferring expenses
+- Postpone the recognition of an expense for which the relevant document is already issued
+- Typically cases of sales or services invoiced by the supplier before the transaction takes place, i.e., prepaid expenses (e.g. rents, insurance policies, office supplies)
+
+Debit: {Deferred expenses (Asset)}
+Credit: {Accounts payable / Cash}
+
+[TEMA: Financial Accounting, FONTE: 12. Adjusting entries.pdf, página 11]
+# Recording a previously accrued invoice
+- In an accounting period subsequent to recording an accrual the appropriate invoice is issued
+- The expense or the revenue will not be recognized again, just the asset or the liability is adjusted to the proper account
+
+Debit: {Accrued expenses (Liability}
+Credit: {Suppliers}
+OR
+Debit: {Customers}
+Credit: {Accrued revenues (Asset)}
+
+[TEMA: Financial Accounting, FONTE: 12. Adjusting entries.pdf, página 12]
+# Converting liabilities to revenues
+- In an accounting period subsequent to recording the deferral, the deferred revenues are earned (e.g. the service is rendered)
+- Revenues deferred when the document was issued must be recognized when earned
+
+Debit: {Deferred revenues (Liability)}
+Credit: {Revenues}
+
+[TEMA: Financial Accounting, FONTE: 12. Adjusting entries.pdf, página 13]
+# Converting assets to expenses
+- In an accounting period subsequent to recording the deferral, the prepaid expenses are incurred (supplies are consumed or services are used)
+- Expenses deferred when the document was issued must be recognized when incurred
+
+Debit: {Expenses}
+Credit: {Deferred expenses (Assets)}
+
+
+[TEMA: Financial Accounting, FONTE: 13. Revaluation of fixed assets.pdf, página 1]
+# Revaluation of fixed assets
+
+[TEMA: Financial Accounting, FONTE: 13. Revaluation of fixed assets.pdf, página 2]
+# Revaluation of assets
+- If the value of an intangible or tangible fixed asset increases, firms can perform a revaluation of that asset (IAS 16)
+- The increase in the net book value of the asset is an increase in the firm’s owners’ equity
+- Notice that this is a denegation of the cost principle
+
+[TEMA: Financial Accounting, FONTE: 13. Revaluation of fixed assets.pdf, página 3]
+# Revaluation of assets
+- Two possible approaches:
+  - Adjust the acquisition cost to better match the current replacement cost (as new); update accumulated depreciations accordingly
+    ➢ Restate both the amount on the 431 and 438 accounts, proportionally, to get the net book value after revaluation equal to the fair value.
+  - Adjust the net book value to match the current fair value of the asset
+    ➢ 1. Eliminate the accumulated depreciation (from account 438) against the previous acquisition (recorded in account 431)
+    ➢ 2. Restate the balance of 431 to the current fair value
+- We will use this approach in the course
+
+[TEMA: Financial Accounting, FONTE: 13. Revaluation of fixed assets.pdf, página 4]
+# Effects of a revaluation
+- Increase in asset’s book value
+  - Increase in the (restated) acquisition value
+- Increase in owners’ equity
+  - Creation of a revaluation surplus
+
+[TEMA: Financial Accounting, FONTE: 13. Revaluation of fixed assets.pdf, página 5]
+# Step 1: Restate the acquisition value = current NBV
+- Decrease in the acquisition cost recorded in account 431/441
+- Cancel the accumulated depreciation up to the moment
+- No change in the net book value of the asset, just reallocation between assets/contra-assets accounts
+
+Debit: {Accumulated depreciation / amortization}
+Credit: {Tangible fixed assets / Intangible assets}
+
+[TEMA: Financial Accounting, FONTE: 13. Revaluation of fixed assets.pdf, página 6]
+# Step 2: Increase the asset value to match the current one
+- Increase in asset’s book value
+  - Increase in the (restated) acquisition value
+  - Creation of a revaluation surplus
+- Increase in owners’ equity
+
+Debit: {Tangible fixed assets / Intangible assets}
+Credit: {Revaluation surplus (Equity)}
+
+[TEMA: Financial Accounting, FONTE: 13. Revaluation of fixed assets.pdf, página 7]
+# Realizing revaluation surplus
+- When a company realizes value from a revalued asset, the corresponding part of the revaluation surplus must be realized as well
+- The realization of value of an asset is made by one of two ways:
+  - Sale
+  - Use (recognized by depreciation)
+
+[TEMA: Financial Accounting, FONTE: 13. Revaluation of fixed assets.pdf, página 8]
+# Realizing revaluation surplus
+- When a company recognizes depreciation of revalued assets, the appropriate amount of revaluation surplus must be realized
+  - Decrease revaluation surplus
+  - Increase retained earnings
+
+Debit: {Revaluation surplus (Equity)}
+Credit: {Retained earnings (Equity)}
+
+[TEMA: Financial Accounting, FONTE: 13. Revaluation of fixed assets.pdf, página 9]
+# Realizing revaluation surplus
+- The realization of revaluation surplus is necessary for two orders of reasons:
+  - Guarantee that, when the asset is sold, or reaches the end of its lifetime, there is no revaluation surplus in the balance sheet for an asset that is not presented there anymore
+  - Adjust the earnings of the company to reflect the true amount of depreciation/amortization expense supported by the company
+
+[TEMA: Financial Accounting, FONTE: 13. Revaluation of fixed assets.pdf, página 10]
+# Impairment vs. revaluation
+- Revaluation surpluses and impairment losses do not coexist for the same asset:
+  - If a previously revalued asset loses value, the company must recognize a decrease in the asset’s revaluation surplus
+  - If after all the revaluation surplus is eliminated, a further decrease in the asset amount has to be recognized, the company recognizes impairment losses
+
+[TEMA: Financial Accounting, FONTE: 13. Revaluation of fixed assets.pdf, página 11]
+# Impairment vs. revaluation
+- Revaluation surpluses and impairment losses do not coexist for the same asset:
+  - If the value of a previously impaired asset increases, the company must start by reverting the impairment losses
+  - If after all the impairment losses were reverted there is still room for further increase in the value of the asset, the company recognizes a revaluation surplus
+
+
+
+[TEMA: Financial Accounting, FONTE: 14. Financial investments.pdf, página 1]
+# Financial investments
+
+[TEMA: Financial Accounting, FONTE: 14. Financial investments.pdf, página 2]
+# Financial investments
+- Putting aside a certain amount of money to get some return or gain
+- Buying securities or other financial assets:
+  - Bonds of other companies
+  - Shares of other companies
+
+[TEMA: Financial Accounting, FONTE: 14. Financial investments.pdf, página 3]
+# Initial recognition
+- Financial investments are initially recognized at acquisition cost
+- The treatment given to expenses incurred with the acquisition of the securities depends on the investment perspective
+  - Short term investments
+    • Expenses are recognized as expenses (account 62) when incurred
+  - Medium/Long term investments
+    • Expenses are added to the value of the asset (capitalized)
+
+[TEMA: Financial Accounting, FONTE: 14. Financial investments.pdf, página 4]
+# Subsequent measurement
+- Depending on the financial investment type, one of three methods may apply:
+  - Fair value
+    • Short run investments (bonds, shares, derivatives)
+    • Shares (no control or significant influence)
+  - Amortized cost
+    • Bonds to be held until maturity
+  - Equity method
+    • Shares that provide a company control or significant influence over another company
+
+[TEMA: Financial Accounting, FONTE: 14. Financial investments.pdf, página 5]
+# Fair value
+- Investment is presented in the balance sheet at its fair value
+- Each year the company recognizes gains or losses due to fair value changes to adjust the value of the investment
+- Same mechanism as for investment properties
+- Dividends or interest are recognized as revenue in the period they are received by the company
+
+[TEMA: Financial Accounting, FONTE: 14. Financial investments.pdf, página 6]
+# Amortized cost method
+- The investment is recognized at its acquisition cost, and adjusted over the lifetime of the asset for factors like interest rates and payments
+- If impairment situations are identified, the corresponding loss is recognized
+- Interest are recognized as revenue in the period they are earned by the company
+
+[TEMA: Financial Accounting, FONTE: 14. Financial investments.pdf, página 7]
+# Equity method
+- Used for investments in shares if the company has significant influence or control over the owned company:
+  - Significant influence: 20% – 50% of the shares and votes
+  - Control: > 50% of the shares and votes
+
+[TEMA: Financial Accounting, FONTE: 14. Financial investments.pdf, página 8]
+# Equity method
+- Investment is initially recognized at the acquisition cost
+- Whenever the invested company records a change in its owners’ equity, the owner recognizes the corresponding adjustment in the investment
+  - Every year there is at least one of such facts: the net income of the invested company
+
+[TEMA: Financial Accounting, FONTE: 14. Financial investments.pdf, página 9]
+# Equity method – Gains
+- To record the adjustment in the financial investment due to a positive net income in invested firm’s equity:
+  - debit financial investment (asset)
+  - credit other revenues
+- Notice the amount to be recorded corresponds to a proportion (% of shares held) of the overall change in equity of the invested company
+
+Debit: {Financial investment}
+Credit: {Other revenues}
+
+[TEMA: Financial Accounting, FONTE: 14. Financial investments.pdf, página 10]
+# Equity method – Losses
+- To record the adjustment in the financial investment due to a negative net income in invested firm’s equity:
+  - credit financial investment (asset)
+  - debit other expenses
+- Notice the amount to be recorded corresponds to a proportion (% of shares held) of the overall change in equity of the invested company
+
+Debit: {Other expenses}
+Credit: {Financial investment}
+
+[TEMA: Financial Accounting, FONTE: 14. Financial investments.pdf, página 11]
+# Equity method – Dividends received
+- When dividends are received, the invested firm’s equity decreases, and the investor receives cash:
+  - credit financial investment (asset)
+  - debit check deposits
+- Notice the amount to be recorded corresponds to a proportion (% of shares held) of the overall dividends paid by the invested company
+
+Debit: {Acc. receivable / Check deposits}
+Credit: {Financial investment}
+
+[TEMA: Financial Accounting, FONTE: 14. Financial investments.pdf, página 12]
+# Equity method – Retained earnings
+- When the invested firm retains net income the firm must point out that such profit will not be received and, therefore, is not available to distribution
+  - credit equity method investment adjustments (equity)
+  - debit retained earnings (equity)
+- Rearrangement with no change in total equity
+- Proportion (% of shares held) of the overall retention
+
+Debit: {Retained earnings}
+Credit: {Equity method investment adjustments}
+
+
+
+[TEMA: Financial Accounting, FONTE: 15. Statement of cash flows.pdf, página 1]
+# Statement of cash flows
+
+[TEMA: Financial Accounting, FONTE: 15. Statement of cash flows.pdf, página 2]
+# Statement of cash flows
+- Recall the statement of cash flows: Describes how the entity’s cash changed during a given period of time dividing positive and negative cash flows in three activities:
+  - Operating activity
+  - Investing activity
+  - Financing activity
+
+[TEMA: Financial Accounting, FONTE: 15. Statement of cash flows.pdf, página 3]
+# Methods to compute cash flows
+- Two different methods to compute (and present) the cash flows from operating activities:
+  - Direct method
+  - Indirect method
+- The cash flows from investing and financing activities must be computed (and presented) by the direct method
+
+[TEMA: Financial Accounting, FONTE: 15. Statement of cash flows.pdf, página 4]
+# Direct method
+- In the beginning of the semester we presented the statement of cash flows using the direct method
+- In the direct method the inflows and outflows are clearly identified and classified according to their different natures:
+  - Collections from customers
+  - Payments to suppliers
+  - (…)
+
+[TEMA: Financial Accounting, FONTE: 15. Statement of cash flows.pdf, página 5]
+# Direct method
+- The direct method has two approaches:
+  - Using transaction/records (which we already saw)
+    • Classify each cash collection or payment
+  - Using the income statement and successive balance sheets
+    • The changes in balances from the beginning to the end of the period must be explained by elements of the income statement and/or statement of cash flows
+
+[TEMA: Financial Accounting, FONTE: 15. Statement of cash flows.pdf, página 6]
+# Direct method using financial statements
+- Cash inflows from customers N =
+  Sales N + Services rendered N – Cash disc. N + Acc. receivable i – Acc. receivable f + Cash adv. f – Cash adv. i
+- Cash outflows to suppliers N =
+  Purchases N + Serv. & supplies exp. N – Cash disc. N + Acc. payable i – Acc. payable f + Cash adv. f – Cash adv. i
+- Purchases N = COGS N + Inventories f – Inventories i
+- (…)
+- ➢ Do not forget to add VAT to all payments of transactions subject to this tax (e.g. sales, services, purchases, etc.)
+- ➢ Do not forget to consider adjusting entries (e.g. allowances for doubtful debts, inventory write-downs, accruals, deferrals, etc.)
+
+[TEMA: Financial Accounting, FONTE: 15. Statement of cash flows.pdf, página 7]
+# Indirect method
+- The indirect method uses a completely different approach:
+  - start with something that should be close to the operating cash flow – the net income – and make the proper adjustments
+- The indirect method reaches the goal of providing the operating cash flow, but gives no insight on the operating sources and uses of cash
+
+[TEMA: Financial Accounting, FONTE: 15. Statement of cash flows.pdf, página 8]
+# Indirect method adjustments
+- Start with net income of the period and undo the impact of expenses and revenues which:
+  - Are not operating
+    • Related to TFA, investment properties, financial investments, bank loans, etc.
+  - Were not yet turned into cash-flows
+    • Change in accounts receivable, change in accounts payable, change in accruals, etc.
+  - Were not yet recognized in the net income
+    • Change in inventories, change in deferrals, etc.
+
+[TEMA: Financial Accounting, FONTE: 15. Statement of cash flows.pdf, página 9]
+# Example of indirect method adjustments
+Net income
++ Depreciation and amortization expenses
++ Impairment expenses
++ Interest expenses
++ Other expenses related to investing or financing activities
+- Interest revenues
+- Other revenues related to investing or financing activities
+- Change in accounts receivable
++ Change in accounts payable
+- Change in inventories
+(…)
+Cash flow from operating activities
+
+
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 1]
+# Financial analysis
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 2]
+# Financial analysis
+- The financial statements contain important information to characterize a company
+- Different stakeholders want to be able to use that information to take decisions (e.g., investing or financing decisions)
+- Recall that there are several different types of users of the financial statements
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 3]
+# Users of financial information
+- Stockholders, investors and financial analysts
+  – Estimate the value of the company, analyse its performance and profitability, …
+- Company managers
+  – Analyse the performance of the company, identify the strengths and the weaknesses, …
+- Creditors
+  – Analyse if the company will be able to pay the due amounts and its credit worthiness
+- (…)
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 4]
+# Vectors of analysis
+- Credit / financing
+  – Liquidity (ST), capital structure and solvency (LT)
+- Risk
+  – Financial and operational risk
+- Efficiency
+  – Activity analysis
+- Profitability
+  – Return obtained on the equity and assets
+- Market
+  – Market valuation, gap between accounting and market
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 5]
+# Financial analysis
+- Financial statements
+  – Balance sheet, income statement and statement of cash flows
+- Common size financial statements (vertical analysis)
+  – Financial statements with amounts turned to percentage of total (allows better comparison)
+- Ratios
+  – Generally used ratios that allow an easy analysis
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 6]
+# Comparative analysis
+- Financial analysis only makes sense in relative terms
+- The amounts or ratios are usually useless per se, they need to be compared against a benchmark
+  - Against past performance of the company (horizontal analysis)
+  - Against other comparable firms (peer analysis)
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 7]
+# Financial statements
+- Analyse the main elements (amount and changes):
+  - Total assets, equity and liabilities
+  - Net income
+  - Elements responsible for the changes identified
+  - Changes in the most important elements (depends on each firm specificities)
+  - Change in cash and cash flows of each activity
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 8]
+# Common size financial statements
+- Balance sheet amounts presented as a percentage of total assets
+- Income statement amounts presented as a percentage of sales
+- Allows to identify changes in the structure of the balance sheet and income statement (which are harder to spot when looking at the absolute amounts)
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 9]
+# ST and LT equilibrium
+Investing decision (Assets)
+Long term (non current)
+- Tangible fixed assets
+- Intangible assets
+- Financial investments
+Short term (current)
+- Inventories
+- Accounts receivable
+- Short term investments
+- Cash (waiting to be invested)
+
+Financing decision (Equity and Liabilities)
+Long term (permanent financing)
+- Equity
+- Non current liabilities
+Short term (current liabilities)
+- Accounts payable
+- Short term loans
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 10]
+# Net Working Capital
+- To avoid short term imbalances and solvency problems, long term assets should not be financed by short term elements.
+
+Net  working  capital = Current assets – Current liabilities
+
+Net  working  capital = Equity + Non current liabilities – Non current assets
+
+or
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 11]
+# Net Working Capital
+- Traditional approach states that companies should have NWC > 0
+  The company should be able to pay its short term obligation, and still have a cushion: the NWC
+- But some companies structurally have NWC < 0 although they do not have a short term imbalance
+- Functional approach: determine the operating NWC needs and compare it to NWC
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 12]
+# Net Working Capital
+Net  working  capital needs = Current operating assets – Current operating liabilities
+
+Net  working  capital = Equity + Non current liabilities – Non current assets
+
+Net short term financial assets = Cash, cash equivalents and ST investments – Short term loans
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 13]
+# Net Working Capital
+- Functional approach states that companies should have NWC > NWC needs
+  i.e., net short term financial assets > 0
+- This approach cares about non operating short term balance
+  The company should have enough short term non operating assets to cover the short term loans
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 14]
+# Ratios
+- Ratio analysis allows to quickly analyse a firm's present and past situation
+- A ratio is not a meaningful number by itself: it must be compared with something before it becomes useful (comparative analysis)
+- In the next slides you can find some examples of usually used ratios
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 15]
+# Liquidity ratios
+Current ratio = Current assets / Current liabilities
+- Liquidity refers to the short term situation of the company
+- Similar to net working capital
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 16]
+# Leverage ratios
+Debt-to-assets = Liabilities / Assets
+Debt-to-equity = Liabilities / Equity
+- Leverage refers to the use of debt instead of equity
+- More debt means more risk (but typically also higher return to the shareholders)
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 17]
+# Leverage ratios
+Weight of LT debt = Non current liabilities / Total liabilities
+Weight of ST debt = Current liabilities / Total liabilities
+- Short term debt increases the risk of the company (as it has to be paid soon)
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 18]
+# Activity ratios
+Total assets turnover = (Sales + Services rendered) / Assets
+Inventory turnover = COGS / Inventories
+- Activity ratios are used to measure efficiency
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 19]
+# Activity ratios
+Days sales outstanding = Accounts receivable × 365 / ((Sales + Serv.) × (1 + VAT rate))
+Days payable outstanding = Accounts payable × 365 / ((Purchases + SSE) × (1 + VAT rate))
+Days in inventory = Inventories × 365 / COGS
+- Activity ratios are used to measure efficiency
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 20]
+# Profitability ratios
+Gross profit margin (over sales) = (Sales – COGS) / Sales
+Gross profit margin (over COGS) = (Sales – COGS) / COGS
+- Measure the return provided by the company
+- The first measure of return that can be computed
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 21]
+# Profitability ratios
+Return on sales = Net income / Sales
+Return on equity = Net income / Equity
+Return on assets = Net income / Assets
+- Measure the return provided by the company
+
+[TEMA: Financial Accounting, FONTE: 16.a. Financial analysis.pdf, página 22]
+# Market ratios
+Price-to-earnings ratio (PER) = Market price of shares / Earnings per share (EPS)
+Earnings per share (EPS) = Net income / Number of shares
+Price-to-book value ratio (PBV) = Market price of shares / Accounting value of shares
+- Look at the company’s market value

@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Generated vector database (rebuild with: python rag_creator.py --index)
+chroma_db/
+
+# Old local files
+extras/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / OS
+.claude/
+.vscode/
+.idea/
+.DS_Store
+.gradio/
