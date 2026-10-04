@@ -58,13 +58,14 @@ CITATION_PATTERN = re.compile(r'[ \t]*\[oai_citation:[^\]]*\]\([^)]*\)')
 class RAG:
     """Indexing and search over the vector database."""
 
-    def __init__(self, config: RAGConfig | None = None):
+    def __init__(self, config: RAGConfig | None = None, verbose: bool = True):
         self.config = config or RAGConfig()
+        log = print if verbose else (lambda *_: None)
 
-        print("📊 Loading embedding model...")
+        log("📊 Loading embedding model...")
         self.embedding_model = SentenceTransformer(self.config.EMBEDDING_MODEL)
 
-        print("💾 Opening ChromaDB...")
+        log("💾 Opening ChromaDB...")
         self.chroma_client = chromadb.PersistentClient(
             path=self.config.CHROMA_PERSIST_DIR,
             settings=Settings(anonymized_telemetry=False),
@@ -73,7 +74,7 @@ class RAG:
             name=self.config.COLLECTION_NAME,
             metadata={"hnsw:space": "cosine"},
         )
-        print(f"✅ Ready! ({self.collection.count()} chunks in the database)\n")
+        log(f"✅ Ready! ({self.collection.count()} chunks in the database)\n")
 
     # --------------------------------------------------------
     # Embeddings (E5 models require the "query: " / "passage: " prefixes)

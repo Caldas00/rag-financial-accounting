@@ -15,16 +15,16 @@ git clone git@github.com:Caldas00/rag-financial-accounting.git
 cd rag-financial-accounting
 
 python3 -m venv .venv
-source .venv/bin/activate          # Windows: .venv\Scripts\activate
+source .venv/bin/activate         
 pip install -r requirements.txt
 
-cp .env.example .env               # then put your API key in .env (AI_KEY=...)
+cp .env.example .env         
 
-python rag_creator.py --index      # build the vector database (~1 min the first time)
-python chatbot.py                  # open http://127.0.0.1:7860
+python rag_creator.py --index     
+python chatbot.py        
 ```
 
-The first run downloads the embedding model (~470 MB), which is then cached.
+The first run downloads the embedding model, which is then cached.
 
 ## How it works
 
@@ -86,7 +86,8 @@ In `.env`:
 | Variable | Default | Description |
 | --- | --- | --- |
 | `AI_KEY` | — | API key (required) |
-| `AI_MODEL` | `gpt-4.1-mini` | Model name |
+| `AI_MODEL` | `gpt-6-luna` | Model name (`gpt-6.1-sol` for better answers, `gpt-6-astra` for the best and most expensive) |
+| `AI_REASONING_EFFORT` | `low` | Reasoning effort for reasoning models. Leave empty for non-reasoning models like `gpt-4.1-mini` |
 | `AI_BASE_URL` | OpenAI | Any OpenAI-compatible API, e.g. Groq, OpenRouter, Gemini |
 
 Retrieval settings (embedding model, number of chunks) are in `RAGConfig` in
