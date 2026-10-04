@@ -4,9 +4,6 @@
 # Generated vector database (rebuild with: python rag_creator.py --index)
 chroma_db/
 
-# Old local files
-extras/
-
 # Python
 __pycache__/
 *.pyc
